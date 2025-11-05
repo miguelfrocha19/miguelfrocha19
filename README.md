@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=500&color=5A262C&vCenter=true&width=435&lines=Ol%C3%A1!+Sou+Lucas+Moura!+%F0%9F%9A%80;Desenvolvedor+da+Resenha+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=500&color=5A262C&vCenter=true&width=435&lines=Ol%C3%A1!+Meu+nome+é+Miguel+Fernandes!+%F0%9F%9A%80;Desenvolvedor+da+Resenha+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 > - 🎓 **Bacharel em Ciência da Computação**
 
